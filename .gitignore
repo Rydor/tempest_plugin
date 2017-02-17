@@ -1,0 +1,7 @@
+*.xml
+*.yaml
+*.idea
+.idea/
+*.pyc
+*.png
+*.log
