@@ -1,4 +1,4 @@
-Description
+**Description**
 
 The purpose of these tests are to fill the gaps currently in RPC test coverage.
 
@@ -8,7 +8,7 @@ VMs
 These tests are provided as a Tempest plugin, this way we can take advantage of all the features and capabilities of Tempest without having to merge these tests into the Tempest tree.
 
 
-Installation
+**Installation**
 
 Install Tempest
 Configure Tempest configuration file according to your OpenStack deployment
@@ -20,7 +20,7 @@ ostestr --list | grep compute-create
 You should see the list of tests from the plugin.
 
 
-Running the tests
+**Running the tests**
 
 To create test resources run this command:
 ostestr --regex compute-create
