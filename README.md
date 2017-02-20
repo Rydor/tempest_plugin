@@ -21,5 +21,6 @@ You should see the list of tests from the plugin.
 
 
 Running the tests
+
 To create test resources run this command:
 ostestr --regex compute-create
